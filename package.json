@@ -1,6 +1,6 @@
 {
   "name": "@wcd/jonreppdoned.lwc-l6nmg77r",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "serve": "npx wcd-cli@latest serve BkfG6NNhx9XyFYmLgEp9 --open"
   }
