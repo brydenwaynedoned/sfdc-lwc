@@ -5,6 +5,8 @@
     },
     {
       "dir": "src"
+      "dir:" "src/stories";
+      
     }
   ]
 }
